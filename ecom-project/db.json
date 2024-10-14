@@ -1,0 +1,99 @@
+{
+  "seller": [
+    {
+      "id": "97d8",
+      "name": "Archy Singh",
+      "email": "archyvimal@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "c0e9",
+      "name": "Madhavi Singh",
+      "email": "madhavi@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "fefa",
+      "name": "archy.singh@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "fc3c",
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@gmail.com"
+    },
+    {
+      "id": "78d2",
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abs@gmail.com"
+    },
+    {
+      "id": "2757",
+      "name": "testing",
+      "password": "test@123",
+      "email": "testing@gmail.com"
+    },
+    {
+      "id": "15c6",
+      "name": "local",
+      "password": "local@123",
+      "email": "local@gmail.com"
+    },
+    {
+      "id": "c4fc",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "a389",
+      "name": "TestForsignIn",
+      "password": "qwe@123",
+      "email": "testingforsignin@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "95c6",
+      "name": "ASP .NET",
+      "price": "3000",
+      "category": ".Net development",
+      "description": "Backened of .net development",
+      "image": "https://msatechnosoft.in/blog/wp-content/uploads/2018/09/asp.net-logo-MSA-Technosoft.png"
+    },
+    {
+      "id": "f2b2",
+      "name": "Entity Framework Core",
+      "price": "3000",
+      "category": ".Net",
+      "description": "backened technology of microsoft",
+      "image": "https://cdn.educba.com/academy/wp-content/uploads/2022/04/Entity-Framework-Core-Database-First-768x427.jpg"
+    },
+    {
+      "id": "3d36",
+      "name": "Entity Framework Core",
+      "price": "3000",
+      "category": ".Net",
+      "description": "backened technology of microsoft",
+      "image": "https://cdn.educba.com/academy/wp-content/uploads/2022/04/Entity-Framework-Core-Database-First-768x427.jpg"
+    },
+    {
+      "id": "94ae",
+      "name": "Entity Framework ",
+      "price": "3000",
+      "category": ".Net",
+      "description": "Backened of .net technology",
+      "image": "https://cdn.educba.com/academy/wp-content/uploads/2022/04/Entity-Framework-Core-Database-First-768x427.jpg"
+    },
+    {
+      "id": "4fd8",
+      "name": "C#",
+      "price": "3000",
+      "category": "Microsoft",
+      "description": ".net base",
+      "image": "https://cdn.educba.com/academy/wp-content/uploads/2022/04/Entity-Framework-Core-Database-First-768x427.jpg"
+    }
+  ]
+}
